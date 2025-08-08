@@ -6,13 +6,13 @@
       <!-- Left content -->
       <div class="lg:w-1/2">
         <h2 class="text-4xl font-extrabold text-black mb-4">
-          Quy trình làm việc
+          Quy trình sản xuất
         </h2>
         <p class="text-gray-600 mb-8">
-          Nhà Thầu Vàng với mong muốn đem lại dịch vụ chất lượng tốt nhất, chúng
-          tôi xây dựng quy trình Design & Build với hệ thống quản lý bằng công
-          nghệ và nhân sự giàu kinh nghiệm giúp tiết kiệm thời gian và chi phí
-          cho Chủ Đầu Tư
+          Chúng tôi cam kết mang đến những sản phẩm đồ gỗ chất lượng cao, được
+          thực hiện tỉ mỉ qua từng công đoạn. Từ khâu tư vấn, thiết kế đến sản
+          xuất và giao hàng, mọi quy trình đều được kiểm soát chặt chẽ để đảm
+          bảo sự hài lòng của khách hàng.
         </p>
 
         <!-- Steps -->
@@ -21,11 +21,11 @@
           <div
             class="bg-gradient-to-br from-orange-400 to-orange-600 text-white p-6 rounded-xl shadow-md relative"
           >
-            <h3 class="text-xl font-bold mb-2">Tư Vấn Dự Toán</h3>
+            <h3 class="text-xl font-bold mb-2">Tư Vấn & Đặt Hàng</h3>
             <p class="text-sm">
-              Khi nhận được Yêu cầu của Chủ Đầu Tư, Nhà Thầu Vàng sẽ Tư vấn về
-              thiết kế kiến trúc, kinh phí xây dựng.. hoàn toàn
-              <strong>Miễn phí</strong>.
+              Đội ngũ tư vấn hỗ trợ khách hàng lựa chọn sản phẩm phù hợp với nhu
+              cầu và không gian sử dụng. Có thể đặt theo mẫu có sẵn hoặc thiết
+              kế theo yêu cầu.
             </p>
             <span
               class="absolute top-4 right-4 text-4xl font-extrabold opacity-20"
@@ -36,12 +36,12 @@
           <!-- Step 2 -->
           <div class="bg-white p-6 rounded-xl shadow-md relative">
             <h3 class="text-xl font-semibold text-gray-800 mb-2">
-              Thiết Kế Kiến Trúc
+              Thiết Kế & Duyệt Mẫu
             </h3>
             <p class="text-sm text-gray-600">
-              Chủ Đầu Tư và KTS cùng làm việc chi tiết về Mặt bằng, Thiết kế 3D,
-              Hồ sơ triển khai thi công thật kỹ lưỡng kèm giải pháp thi công
-              <strong>Thiết Thực</strong>.
+              Sau khi tiếp nhận yêu cầu, đội ngũ kỹ thuật tiến hành thiết kế bản
+              vẽ 3D chi tiết. Khách hàng sẽ được xem và duyệt mẫu trước khi sản
+              xuất.
             </p>
             <span
               class="absolute top-4 right-4 text-4xl font-extrabold text-orange-100"
@@ -52,14 +52,12 @@
           <!-- Step 3 -->
           <div class="bg-white p-6 rounded-xl shadow-md relative">
             <h3 class="text-xl font-semibold text-gray-800 mb-2">
-              Thi Công Xây Dựng
+              Sản Xuất Thủ Công
             </h3>
             <p class="text-sm text-gray-600">
-              Nhà Thầu Vàng hỗ trợ xin phép xây dựng, đăng ký thi công.
-              <strong
-                >Quay phim, chụp ảnh, báo cáo tiến độ thi công mỗi ngày</strong
-              >. Đảm bảo kiểm soát tiến độ và chất lượng thi công tại Công
-              trình.
+              Sản phẩm được gia công tại xưởng bằng gỗ tự nhiên chất lượng cao.
+              Quy trình sản xuất tuân thủ tiêu chuẩn kỹ thuật, đảm bảo độ bền và
+              tính thẩm mỹ.
             </p>
             <span
               class="absolute top-4 right-4 text-4xl font-extrabold text-orange-100"
@@ -70,12 +68,12 @@
           <!-- Step 4 -->
           <div class="bg-white p-6 rounded-xl shadow-md relative">
             <h3 class="text-xl font-semibold text-gray-800 mb-2">
-              Nghiệm Thu Hoàn công
+              Giao Hàng & Hậu Mãi
             </h3>
             <p class="text-sm text-gray-600">
-              Kỹ sư gửi <strong>Bản nghiệm thu</strong> chuyên bước từng hạng
-              mục. Chủ đầu tư có bất kỳ yêu cầu chỉnh sửa hay thay đổi, Nhà Thầu
-              Vàng sẽ ghi nhận.
+              Sản phẩm được đóng gói cẩn thận và vận chuyển tận nơi. Chúng tôi
+              hỗ trợ lắp đặt và bảo hành dài hạn, đảm bảo khách hàng an tâm sử
+              dụng.
             </p>
             <span
               class="absolute top-4 right-4 text-4xl font-extrabold text-orange-100"
@@ -114,6 +112,7 @@
     </div>
   </section>
 </template>
+
 
 <script setup>
 // No JS needed for this component
